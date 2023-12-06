@@ -1,2 +1,1 @@
-# Pizza
-First Repo through Thinkful
+# pizza
